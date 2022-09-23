@@ -58,8 +58,8 @@ html, body{
 .plx-image2{
     background-image: url(galaxy.jpg);
     text-align: center;
-    width: 100%;
-    height: 100px;
+    width: 1000%;
+    height: 2000px;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
